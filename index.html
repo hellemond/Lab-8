@@ -29,11 +29,27 @@
             this is another paragraph
         </p>
 
+
+
+        <template id="milk">
+            <p>This is Hellemonds paragraph</p>
+        </template>
+
     </div>
 
     <script>
         p1 = document.querySelector(".first-paragraph");
         p1.classList.add("paragraph-color")
+
+        let template = document.getElementById('milk');
+        let templateContent = template.content;
+        document.body.appendChild(templateContent);
+
+
+
+
+
+
 
     </script>
 

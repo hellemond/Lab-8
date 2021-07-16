@@ -1,3 +1,4 @@
+// step 1 add this JavaScript file to index.html in the head element using the appropriate attribute
 
 //write functions for all of the following
 //use querySelector or querySelectorAll for all of the following, where needed.
@@ -7,3 +8,9 @@
 // step 3 create a paragraph template using a template litteral
 
 // step 5 add the paragraph template you just created to the first div using innerHTML
+
+
+
+<template id="my-paragraph">
+  <p>milk</p>
+</template>
