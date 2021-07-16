@@ -1,4 +1,3 @@
-// step 1 add this JavaScript file to index.html in the head element using the appropriate attribute
 
 //write functions for all of the following
 //use querySelector or querySelectorAll for all of the following, where needed.
