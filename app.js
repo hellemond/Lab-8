@@ -7,10 +7,4 @@
 
 // step 3 create a paragraph template using a template litteral
 
-// step 5 add the paragraph template you just created to the first div using innerHTML
-
-
-
-<template id="my-paragraph">
-  <p>milk</p>
-</template>
+// step 4 add the paragraph template you just created to the first div using innerHTML
